@@ -1,5 +1,6 @@
 lr1
 
+<<<<<<< HEAD
 123
 
 123123
@@ -17,3 +18,5 @@ lr1
 
 >>>>>>> XpeRiallBranch
 >>>>>>> 
+=======
+>>>>>>> Update README.md
